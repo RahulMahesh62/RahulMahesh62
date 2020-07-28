@@ -9,6 +9,6 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 - ⚡ Fun fact: I spend almost 10hrs in front of my laptop..😎😎😎
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=dracula)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMahesh62&layout=compact&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMahesh62&layout=compact)]
+
