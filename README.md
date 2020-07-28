@@ -11,4 +11,4 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMahesh62&layout=compact&theme=dracula)]
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=dracula" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMahesh62&layout=compact&theme=dracula" />
