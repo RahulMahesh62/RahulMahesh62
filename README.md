@@ -11,5 +11,5 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues) 
 
-<a href="https://rahulmahesh.netlify.com/"><img src="https://img.icons8.com/windows/30/000000/link.png"/> <a href="https://twitter.com/rahulmahesh62"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/rahulmahesh/"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a> <a href="https://medium.com/@rahulmahesh62"><img src="https://img.icons8.com/color/30/000000/medium.png"/></a> 
+<a href="https://rahulmahesh.netlify.com/"><img src="https://img.icons8.com/windows/37/000000/link.png"/> <a href="https://twitter.com/rahulmahesh62"><img src="https://img.icons8.com/fluent/37/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/rahulmahesh/"><img src="https://img.icons8.com/color/37/000000/linkedin.png"/></a> <a href="https://medium.com/@rahulmahesh62"><img src="https://img.icons8.com/color/37/000000/medium.png"/></a> 
 
