@@ -2,7 +2,7 @@
 
 I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India. I specialize in Web-Development and Flutter. I also love writing Tech-blogs, Graphic Design etc. Feel free to contact me for your doubts and queries regarding Web-Dev and Flutter..😉😉😉 
 
-- 🔭 I’m currently working on my Portfolio website.
+- 🔭 I've just completed my Portfolio website.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
 - 🤔 I’m looking for help with React.
