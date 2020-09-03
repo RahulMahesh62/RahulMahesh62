@@ -9,7 +9,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 - ⚡ Fun fact: I spend almost 10hrs in front of my laptop..😎😎😎
 
-<details>
+<details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
@@ -25,9 +25,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 </details>
 
----
-
-<details>
+<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
@@ -39,9 +37,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 </details>
 
----
-
-<details>
+<details open>
 <summary> 😇 <b>My Tools</b>: </summary>
 
 <br>
