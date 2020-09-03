@@ -1,8 +1,5 @@
 ### Hola, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img src="https://github.com/RahulMahesh62/portfolio-website/blob/master/giphy.gif" width="810" height="350" />
-
-
 I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India. I specialize in Web-Development and Flutter. I also love writing Tech-blogs, Graphic Design etc. Feel free to contact me for your doubts and queries regarding Web-Dev and Flutter..😉😉😉 
 
 - 🔭 I've just completed my Portfolio website.
@@ -12,7 +9,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 - ⚡ Fun fact: I spend almost 10hrs in front of my laptop..😎😎😎
 
-<details open>
+<details>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
@@ -30,7 +27,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 ---
 
-<details close>
+<details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
@@ -44,7 +41,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 ---
 
-<details open>
+<details>
 <summary> 😇 <b>My Tools</b>: </summary>
 
 <br>
