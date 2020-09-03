@@ -1,6 +1,7 @@
 ### Hola, I'm Rahul Mahesh! 👋
 
-<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="680" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
+<img src="https://github.com/RahulMahesh62/portfolio-website/blob/master/giphy.gif" width="550" height="275" />
+
 
 I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India. I specialize in Web-Development and Flutter. I also love writing Tech-blogs, Graphic Design etc. Feel free to contact me for your doubts and queries regarding Web-Dev and Flutter..😉😉😉 
 
