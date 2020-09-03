@@ -37,7 +37,7 @@ I'm a student 👨‍💻👨‍💻👨‍💻 developer based in Cochin, India
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMahesh62&theme=vue&hide=php,css,html">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMahesh62&theme=vue&hide=php,css,html,makefile">
 </p>
 
 </details>
