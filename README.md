@@ -6,7 +6,7 @@
 I'm a student developer. I specialize in Web-Development and Flutter. I also love writing Tech-blogs, Graphic Design etc. Feel free to contact me for your doubts and queries regarding Web-Dev and Flutter..😉😉😉 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I do currently</h2></summary>
+                width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning React.
