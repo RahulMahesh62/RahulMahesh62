@@ -1,9 +1,9 @@
 <h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
- src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="40%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
 
-I'm a student developer. I specialize in Web-Development and Flutter. I also love writing Tech-blogs, Graphic Design etc. Feel free to contact me for your doubts and queries regarding Web-Dev and Flutter..😉😉😉 
+<p align="center">I'm a student developer.<br>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
