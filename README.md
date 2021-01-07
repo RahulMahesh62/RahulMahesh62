@@ -1,7 +1,9 @@
-<p align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" height="170" width=auto></p>
+<h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" height="170" width="80%"></p>
 
 
-<p align="center">Hello, I'm Rahul Mahesh! <br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
+<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
