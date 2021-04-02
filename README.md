@@ -30,7 +30,10 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> Latest Blog Posts</h2> </summary>
 
-<!-- DEVTO:START --> <!-- DEVTO:END -->
+<!-- DEVTO:START -->
+- [Top 5 Flutter 2.0 features you should know](https://dev.to/rahulmahesh62/top-5-flutter-2-0-features-you-should-know-17na)
+- [My first Flutter Application](https://dev.to/rahulmahesh62/my-first-flutter-application-119o)
+<!-- DEVTO:END -->
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> My Github Stats</h2> </summary>
 
