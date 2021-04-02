@@ -1,15 +1,13 @@
 <h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="50%"/></p>
+ src="https://github.com/RahulMahesh62/RahulMahesh62/blob/master/imageonline-co-transparentimage.png?raw=true" width="70%"/></p>
 
-
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br/><br/></p>
+<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br/></p>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center" width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning React and Flutter.
@@ -17,8 +15,7 @@
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
 
 <p align = "center">
  
@@ -31,14 +28,17 @@
 
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> Latest Blog Posts</h2> </summary>
+
+<!-- DEVTO:START --> <!-- DEVTO:END -->
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> My Github Stats</h2> </summary>
 
 <br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
+  
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
