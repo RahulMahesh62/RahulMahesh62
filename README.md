@@ -1,7 +1,7 @@
 <h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
- src="https://github.com/RahulMahesh62/RahulMahesh62/blob/master/imageonline-co-transparentimage.png?raw=true" width="70%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br/></p>
 
@@ -10,9 +10,9 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center" width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and Flutter.
+- 🌱 I’m currently Flutter.
 - 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
-- 🤔 I’m looking for help with React.
+- 🤔 I’m looking for help in Firebase.
 - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
