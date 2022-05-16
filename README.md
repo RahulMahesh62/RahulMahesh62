@@ -29,15 +29,9 @@
 <a href="https://twitter.com/rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmahesh62" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahulmahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmahesh" height="30" width="40" /></a>
 <a href="https://instagram.com/_rahulmahesh62_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahulmahesh62_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahulmahesh62" height="30" width="40" /></a>
+<a href="https://rahulmahesh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahulmahesh62" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulmahesh62" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulmahesh62" height="30" width="40" /></a>
 
 </p><br>
-
-<h2 align="center">Stats</h2>
-<p align="center">
-<img src="https://metrics.lecoq.io/rahulmahesh62?template=terminal&config.timezone=Asia%2FCalcutta" alt="rahulmahesh62"
-</p>
-
 <p align="center"><img src="https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge"</p>
